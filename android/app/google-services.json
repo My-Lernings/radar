@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625009145852",
+    "firebase_url": "https://locale-346911-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "locale-346911",
+    "storage_bucket": "locale-346911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625009145852:android:2aeb09880aee37ba522479",
+        "android_client_info": {
+          "package_name": "com.micacreativa.locale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625009145852-g9jv0o18mphmp3hfkphe3pb32rm4an5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccweZwVZZrZYGfyFquh9tDiIiYKvl3Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625009145852-g9jv0o18mphmp3hfkphe3pb32rm4an5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625009145852-4g6j8v764dri1fpg7krqrd8uddm6a63o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.locale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
